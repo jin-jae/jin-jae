@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=jin-jae&fontSize=90&fontAlign=80&fontAlignY=0&rotate=20&animation=fadeIn)
+[![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=jin-jae&fontSize=90&fontAlign=80&fontAlignY=0&rotate=20&animation=fadeIn)](https://github.com/jin-jae/)
 
 ### Introduce Myself
 - 👀 I’m interested in Website / Mobile Application develop
