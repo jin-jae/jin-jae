@@ -16,6 +16,7 @@
 
   ### Here are some stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=swift)](https://github.com/jin-jae/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&layout=compact)](https://github.com/jin-jae/)
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinjae)](https://solved.ac/jinjae)
 </div>
 
