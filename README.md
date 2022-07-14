@@ -2,8 +2,13 @@
   
   [![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=jin-jae&fontSize=90&fontAlign=80&fontAlignY=0&rotate=20&animation=fadeIn)](https://github.com/jin-jae/)
   
+  [![Daewon Badge](https://img.shields.io/badge/DFLHS_31C-2559A5?style=for-the-badge)](http://www.dwfl.hs.kr)
+  [![KMU Business Badge](https://img.shields.io/badge/KMU_Business_Management-004F9F?style=for-the-badge)](http://www.kookmin.ac.kr)
+  [![KMU Software Badge](https://img.shields.io/badge/KMU_Software-004F9F?style=for-the-badge)](http://www.kookmin.ac.kr)
+  <br>
   [![Gmail Badge](https://img.shields.io/badge/jinjae.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jinjae.dev@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/@jinjinjaeri-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jinjinjaeri/)
+  
 
   ### Main Language
   [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)](https://cplusplus.com/reference/clibrary/)
@@ -16,7 +21,9 @@
 
   ### Here are some stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=swift)](https://github.com/jin-jae/)
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&layout=compact)](https://github.com/jin-jae/)
+  <br>
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinjae)](https://solved.ac/jinjae)
 </div>
 
