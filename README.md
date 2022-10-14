@@ -13,10 +13,11 @@
   ### Main Language
   [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)](https://cplusplus.com/reference/clibrary/)
   [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://cplusplus.com)
+  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://docs.python.org/3/reference/index.html)
   [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/refman/8.0/en/)
 
   ### Now I'm studying...
-  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://docs.python.org/3/reference/index.html)
+  [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](https://spring.io)
   [![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3.org)
 
   ### Here are some stats
