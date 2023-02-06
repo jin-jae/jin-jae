@@ -21,15 +21,18 @@
 <div align="center">
   <a href="https://cplusplus.com/reference/clibrary/"><img alt="C Badge" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>
   <a href="https://cplusplus.com"><img alt="C++ Badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
-  <a href="https://cplusplus.com"><img alt="JAVA Badge" src="https://img.shields.io/badge/JAVA-CB3325?style=for-the-badge"></a>
+  <a href="https://www.oracle.com/java/"><img alt="JAVA Badge" src="https://img.shields.io/badge/JAVA-CB3325?style=for-the-badge"></a>
   <a href="https://docs.python.org/3/reference/index.html"><img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 <br>
-  
+
 <a href="https://dev.mysql.com/doc/refman/8.0/en"><img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
 <a href="https://spring.io"><img alt="Spring Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
 <br>
 <a href="https://www.w3.org"><img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+<a href=""><img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<br>
+<a href="https://www.docker.com"><img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <br>
 <a href="https://git-scm.com"><img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
 <a href="https://www.figma.com"><img alt="Figma Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"></a>
-  
+<a href="https://helpx.adobe.com/kr/support/xd.html"><img alt="Adobe XD Badge" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"></a>
