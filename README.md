@@ -29,7 +29,10 @@
 <a href="https://spring.io"><img alt="Spring Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
 <br>
 <a href="https://www.w3.org"><img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
-<a href=""><img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<a href="https://www.w3.org"><img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<a href="https://www.ecma-international.org"><img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
+<a href="https://react.dev"><img alt="React Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a>
+<a href="https://reactnative.dev"><img alt="React Native Badge" src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a>
 <br>
 <a href="https://www.docker.com"><img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <br>
