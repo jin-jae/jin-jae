@@ -17,25 +17,31 @@
 <div align="center">
   <h2>Skills&nbsp;&nbsp;&nbsp;<a href="https://solved.ac/jinjae"><img alt="Backjoon Badge" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinjae"></h2>
 </div>
-  <a href="https://github.com/jin-jae"><img align="left" alt="Top Languages Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&layout=compact"></a>
+  <a href="https://github.com/jin-jae"><img align="right" alt="Top Languages Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&langs_count=10"></a>
 <div align="center">
-  <a href="https://cplusplus.com/reference/clibrary/"><img alt="C Badge" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>
-  <a href="https://cplusplus.com"><img alt="C++ Badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
-  <a href="https://www.oracle.com/java/"><img alt="JAVA Badge" src="https://img.shields.io/badge/JAVA-CB3325?style=for-the-badge"></a>
-  <a href="https://docs.python.org/3/reference/index.html"><img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
-<br>
-
-<a href="https://dev.mysql.com/doc/refman/8.0/en"><img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
-<a href="https://spring.io"><img alt="Spring Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
-<br>
-<a href="https://www.w3.org"><img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
-<a href="https://www.w3.org"><img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
-<a href="https://www.ecma-international.org"><img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
-<a href="https://react.dev"><img alt="React Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a>
-<a href="https://reactnative.dev"><img alt="React Native Badge" src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a>
-<br>
-<a href="https://www.docker.com"><img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
-<br>
-<a href="https://git-scm.com"><img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"></a>
-<a href="https://www.figma.com"><img alt="Figma Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"></a>
-<a href="https://helpx.adobe.com/kr/support/xd.html"><img alt="Adobe XD Badge" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"></a>
+  <div align="left">
+    <h3>Language</h3>
+    <a href="https://cplusplus.com/reference/clibrary/"><img alt="C Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
+    <a href="https://cplusplus.com"><img alt="C++ Badge" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://www.oracle.com/java/"><img alt="JAVA Badge" src="https://img.shields.io/badge/JAVA-CB3325?style=flat-square"></a>
+    <a href="https://docs.python.org/3/reference/index.html"><img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <h3>Backend</h3>
+    <a href="https://dev.mysql.com/doc/refman/8.0/en"><img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
+    <a href="https://spring.io"><img alt="Spring Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
+    <h3>Frontend</h3>
+    <a href="https://www.w3.org"><img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+    <a href="https://www.w3.org"><img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
+    <a href="https://www.ecma-international.org"><img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
+    <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /></a>
+    <a href="https://react.dev"><img alt="React Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></a>
+    <a href="https://reactnative.dev"><img alt="React Native Badge" src="https://img.shields.io/badge/React Native-30303D?style=flat-square&logo=React&logoColor=white"></a>
+    <h3>Cloud</h3>
+    <a href="https://www.docker.com"><img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>
+    <a href="https://aws.amazon.com"><img alt="AWS Badge" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></a>
+    <a href="https://cloud.google.com"><img alt="Google Cloud Platform Badge" src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"></a>
+    <h3>Collaboration</h3>
+    <a href="https://git-scm.com"><img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></a>
+    <a href="https://www.figma.com"><img alt="Figma Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"></a>
+    <a href="https://helpx.adobe.com/kr/support/xd.html"><img alt="Adobe XD Badge" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"></a>
+  </div>
+</div>
