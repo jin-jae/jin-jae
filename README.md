@@ -7,7 +7,7 @@
   <p><strong>넓고 깊은 관심사를 바탕으로 다양성의 가치를 추구하는 탐색가입니다 :)</strong></p>
   <a href="mailto:jinjae.dev@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/jinjae.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/jinjinjaeri"><img alt="Gmail Badge" src="https://img.shields.io/badge/@jinjinjaeri-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.instagram.com/jinjinjaeri"><img alt="Notion Badge" src="https://img.shields.io/badge/Curriculum%20Vitae-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
+  <a href="https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad?pvs=4"><img alt="Notion Badge" src="https://img.shields.io/badge/Curriculum%20Vitae-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
   
   <a href="http://www.dwfl.hs.kr"><img alt="Daewon FLHS Badge" src="https://img.shields.io/badge/Daewon_Foreign_Language_High_School_31C-2559A5?style=for-the-badge"></a><br>
   <a href="https://biz.kookmin.ac.kr"><img alt="KMU Business Management Badge" src="https://img.shields.io/badge/Kookmin_University_Business_Management-004F9F?style=for-the-badge"></a><br>
