@@ -1,6 +1,7 @@
 name: Run Python Code
 
 on:
+  push:
   schedule:
     - cron: '0 */6 * * *' # 24마다 시간 실행
   workflow_dispatch:
