@@ -1,0 +1,19 @@
+name: Run Python Code
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 24마다 시간 실행
+  workflow_dispatch:
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ jin-jae }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
