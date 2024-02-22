@@ -20,9 +20,9 @@ I am expected to graduate from Kookmin University in August, 2024.
   <a href="https://github.com/jin-jae?tab=repositories"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=tokyonight&hide_border=true" width=50%></a>
   <a href="https://github.com/jin-jae"><img alt="Top Languages Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&size_weight=0.3&count_weight=0.7&layout=donut&theme=tokyonight&count_private=true&hide_border=true" width=34%></a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
