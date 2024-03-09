@@ -54,7 +54,9 @@ I am expected to graduate from Kookmin University in August, 2024.
 #### AI / ML
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)](https://numpy.org)
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![scikit-learn Badge](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://numpy.org)
+[![scikit-learn Badge](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
 
 #### Ops
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com)
@@ -66,3 +68,4 @@ I am expected to graduate from Kookmin University in August, 2024.
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com)
 [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)](https://helpx.adobe.com/kr/support/xd.html)
+
