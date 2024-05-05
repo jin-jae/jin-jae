@@ -1,11 +1,13 @@
-[![jin-jae Header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=250&section=header&text=jin-jae&fontSize=90&fontAlign=80&fontAlignY=0&rotate=16&animation=fadeIn&desc=Everyday%20Steady,%20but%20not%20Simple&desczSize=24&FontSize=50&descAlign=25&descAlignY=25)](https://github.com/jin-jae)
+[![jin-jae Header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Jinjae%27s%20Github&fontSize=90&color=0:8871e5,100:b678c4&stroke=b678c4)](https://github.com/jin-jae)
 
 ## 👋&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;&nbsp;&nbsp;[![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin-jae&count_bg=%23000000&title_bg=%23626262&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://github.com/jin-jae)
-Hello, my name is Jinjae Kim. Nice to meet you :)  
+Hello, my name is Jinjae Kim. Nice to meet you :\)
 
-I am especially interested in **Frontend Development** and **Deep Learning**.  
+I am a student studying to become an **AI developer**. I am expected to graduate from Kookmin University in February, 2025. I have experience studying **Time Series** and writing papers related to the field.
 
-I am expected to graduate from Kookmin University in August, 2024.
+Currently, I am also studying **Natural Language Processing (NLP)**. I maintain a broad range of interests related to AI and consistently seek to expand my knowledge.
+
+
 
 ### More details
 [![KMU Software Badge](https://img.shields.io/badge/Kookmin_University_Software-004F9F?style=for-the-badge)](https://cs.kookmin.ac.kr)
