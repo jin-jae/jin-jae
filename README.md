@@ -1,5 +1,6 @@
 [![jin-jae Header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Jinjae%27s%20Github&fontSize=90&color=0:8871e5,100:b678c4&stroke=b678c4)](https://github.com/jin-jae)
 
+
 ## 👋&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;&nbsp;&nbsp;[![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin-jae&count_bg=%23000000&title_bg=%23626262&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://github.com/jin-jae)
 Hello, my name is Jinjae Kim. Nice to meet you :\)
 
@@ -7,14 +8,12 @@ I am a student studying to become an **AI developer**. I am expected to graduate
 
 Currently, I am also studying **Natural Language Processing (NLP)**. I maintain a broad range of interests related to AI and consistently seek to expand my knowledge.
 
+### Career
+| Duration | School | Major |
+|----------|--------|-------|
+| 2018.03 ~ (2025.02) | [국민대학교](https://kookmin.ac.kr) | 경영학전공 / 소프트웨어전공 (수료) |
+| 2014.03 ~ 2017.02   | [대원외국어고등학교](http://www.dwfl.hs.kr) | 중국어과 (졸업) |
 
-
-### More details
-[![KMU Software Badge](https://img.shields.io/badge/Kookmin_University_Software-004F9F?style=for-the-badge)](https://cs.kookmin.ac.kr)
-[![KMU Business Management Badge](https://img.shields.io/badge/Kookmin_University_Business_Management-004F9F?style=for-the-badge)](https://biz.kookmin.ac.kr)  
-[![Daewon FLHS Badge](https://img.shields.io/badge/Daewon_Foreign_Language_High_School_31C-2559A5?style=for-the-badge)](http://www.dwfl.hs.kr)
-
----
 
 ## 📊&nbsp;&nbsp;&nbsp;Stats
 
@@ -32,8 +31,6 @@ Currently, I am also studying **Natural Language Processing (NLP)**. I maintain 
 ---
 
 ## 💻&nbsp;&nbsp;&nbsp;Skills&nbsp;&nbsp;&nbsp;&nbsp;[![Backjoon Badge](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinjae)](https://solved.ac/jinjae)
-
-
 
 #### Language
 [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://cplusplus.com/reference/clibrary/)
