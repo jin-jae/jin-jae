@@ -30,19 +30,6 @@ Currently, I am also studying **Natural Language Processing (NLP)**. I maintain 
 
 More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad).
 
-## 📊&nbsp;&nbsp;&nbsp;Stats
-
-<div align="center">
-  <a href="https://github.com/jin-jae?tab=repositories"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=tokyonight&hide_border=true" width=50%></a>
-  <a href="https://github.com/jin-jae"><img alt="Top Languages Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&size_weight=0.3&count_weight=0.7&layout=donut&theme=tokyonight&count_private=true&hide_border=true" width=34%></a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
 ---
 
 ## 💻&nbsp;&nbsp;&nbsp;Skills&nbsp;&nbsp;&nbsp;&nbsp;[![Backjoon Badge](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinjae)](https://solved.ac/jinjae)
@@ -83,3 +70,16 @@ More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a041
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com)
 [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)](https://helpx.adobe.com/kr/support/xd.html)
 
+---
+
+## 📊&nbsp;&nbsp;&nbsp;Stats
+
+<div align="center">
+  <a href="https://github.com/jin-jae?tab=repositories"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=tokyonight&hide_border=true" width=50%></a>
+  <a href="https://github.com/jin-jae"><img alt="Top Languages Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&size_weight=0.3&count_weight=0.7&layout=donut&theme=tokyonight&count_private=true&hide_border=true" width=34%></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
