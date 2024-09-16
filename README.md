@@ -9,11 +9,26 @@ I am a student studying to become an **AI developer**. I am expected to graduate
 Currently, I am also studying **Natural Language Processing (NLP)**. I maintain a broad range of interests related to AI and consistently seek to expand my knowledge.
 
 ### Career
-| Duration | School | Major |
+| Duration | School | Status |
 |----------|--------|-------|
-| 2018.03 ~ (2025.02) | [국민대학교](https://kookmin.ac.kr) | 경영학전공 / 소프트웨어전공 (수료) |
-| 2014.03 ~ 2017.02   | [대원외국어고등학교](http://www.dwfl.hs.kr) | 중국어과 (졸업) |
+| 2018.03 ~           | [국민대학교](https://kookmin.ac.kr) | (수료) 경영학전공 / 소프트웨어전공 |
+| 2014.03 ~ 2017.02   | [대원외국어고등학교](http://www.dwfl.hs.kr) | (졸업) 중국어과 |
 
+### Experience
+| Duration | Name | Status |
+|----------|------|--------|
+| 2024.09 ~           | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | sLLM/sLM 분야 본선진출 |
+| 2024.08 ~           | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer |
+| 2024.08 ~           | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track |
+| 2024.05 ~           | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | Public 4등 |
+| 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | University Lead |
+| 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 입선 |
+| 2023.01 ~ 2023.06 | [2023 KMUCS 다학제간캡스톤디자인](https://www.kfpd.org/36/4262) | 장려상 |
+| 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) |  |
+| 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Core Member |
+| 2022.01 ~ 2022.01 | [42 Seoul La Piscine](https://42seoul.kr/seoul42/main/view) |  |
+
+More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad).
 
 ## 📊&nbsp;&nbsp;&nbsp;Stats
 
@@ -38,6 +53,13 @@ Currently, I am also studying **Natural Language Processing (NLP)**. I maintain 
 [![JAVA Badge](https://img.shields.io/badge/JAVA-CB3325?style=flat-square)](https://www.oracle.com/java/)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://docs.python.org/3/reference/index.html)
 
+#### AI / ML
+[![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)](https://numpy.org)
+[![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![scikit-learn Badge](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
+
 #### Frontend
 [![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://www.w3.org)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://www.w3.org)
@@ -49,13 +71,6 @@ Currently, I am also studying **Natural Language Processing (NLP)**. I maintain 
 #### Backend
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/refman/8.0/en)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io)
-
-#### AI / ML
-[![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)](https://numpy.org)
-[![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![scikit-learn Badge](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
-[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
 
 #### Ops
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com)
