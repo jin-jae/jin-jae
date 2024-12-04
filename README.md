@@ -15,18 +15,19 @@ Currently, I am also studying **Natural Language Processing (NLP)**. I maintain 
 | 2014.03 ~ 2017.02   | [대원외국어고등학교](http://www.dwfl.hs.kr) | (졸업) 중국어과 |
 
 ### Experience
-| Duration | Name | Status |
+| Duration | Name | Result |
 |----------|------|--------|
 | 2024.09 ~           | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | sLLM/sLM 분야 본선진출 |
 | 2024.08 ~           | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer |
-| 2024.08 ~           | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track |
-| 2024.05 ~           | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | Public 4등 |
+| 2024.08 ~           | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track 수강 |
+| 2024.05 ~           | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | 최우수상 (과기부장관상) |
+| 2023.12 ~ 2024.01 | [학부 동계 연구 인턴십](https://gdsc.community.dev/) | Time Series |
 | 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | University Lead |
-| 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 입선 |
+| 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 입선상 |
 | 2023.01 ~ 2023.06 | [2023 KMUCS 다학제간캡스톤디자인](https://www.kfpd.org/36/4262) | 장려상 |
 | 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) |  |
 | 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Core Member |
-| 2022.01 ~ 2022.01 | [42 Seoul La Piscine](https://42seoul.kr/seoul42/main/view) |  |
+| 2022.01 ~ 2022.01 | [42 Seoul 6기](https://42seoul.kr/seoul42/main/view) | La Piscine |
 
 More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad).
 
