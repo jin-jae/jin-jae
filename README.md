@@ -17,10 +17,10 @@ Currently, I am also studying **Natural Language Processing (NLP)**. I maintain 
 ### Experience
 | Duration | Name | Result |
 |----------|------|--------|
-| 2024.09 ~           | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | sLLM/sLM 분야 본선진출 |
-| 2024.08 ~           | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer |
-| 2024.08 ~           | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track 수강 |
-| 2024.05 ~           | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | 최우수상 (과기부장관상) |
+| 2024.09 ~ 2024.12 | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | sLLM/sLM 분야 본선진출 |
+| 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer |
+| 2024.08 ~ 2025.02 | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track 수료 |
+| 2024.05 ~ 2024.10 | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | 최우수상 (과기부장관상) |
 | 2023.12 ~ 2024.01 | [학부 동계 연구 인턴십](https://gdsc.community.dev/) | Time Series |
 | 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | University Lead |
 | 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 입선상 |
@@ -47,22 +47,24 @@ More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a041
 [![scikit-learn Badge](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org)
+[![HuggingFace Badge](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=Hugging%20Face&logoColor=black)](https://pytorch.org)
 
 #### Frontend
 [![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://www.w3.org)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://www.w3.org)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.ecma-international.org)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://www.ecma-international.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://react.dev)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://react.dev)
 [![React Native Badge](https://img.shields.io/badge/React%20Native-30303D?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev)
 
 #### Backend
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://dev.mysql.com/doc/refman/8.0/en)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io)
+[![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://spring.io)
 
 #### Ops
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com)
-[![AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon&20Web%20Services&logoColor=white)](https://aws.amazon.com)
 [![Google Cloud Platform Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)](https://cloud.google.com)
 
 #### Collaboration
