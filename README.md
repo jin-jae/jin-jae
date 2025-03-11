@@ -2,34 +2,34 @@
 
 
 ## 👋&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;&nbsp;&nbsp;[![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin-jae&count_bg=%23000000&title_bg=%23626262&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://github.com/jin-jae)
-Hello, my name is Jinjae Kim. Nice to meet you :\)
+Hi, I’m Jinjae Kim.  
+I’m studying **Business Administration** and **Software Engineering** at Kookmin University, expected to graduate in August 2025.
 
-I am a student studying to become an **AI developer**. I am expected to graduate from Kookmin University in February, 2025. I have experience studying **Time Series** and writing papers related to the field.
+Currently, I am focusing on NLP, especially interested in multimodal models such as MLLM (Multimodal Large Language Models).  
+I also have experience studying Time Series Analysis and have published a research paper in this area.
 
-Currently, I am also studying **Natural Language Processing (NLP)**. I maintain a broad range of interests related to AI and consistently seek to expand my knowledge.
+Feel free to check out my projects or get in touch!
 
 ### Career
-| Duration | School | Status |
-|----------|--------|-------|
-| 2018.03 ~           | [국민대학교](https://kookmin.ac.kr) | (수료) 경영학전공 / 소프트웨어전공 |
-| 2014.03 ~ 2017.02   | [대원외국어고등학교](http://www.dwfl.hs.kr) | (졸업) 중국어과 |
+- \[ 2018.03 ~ 2025.08 \] [국민대학교](https://kookmin.ac.kr) 경영학전공 / 소프트웨어전공 수료
+- \[ 2014.03 ~ 2017.02 \] [대원외국어고등학교](http://www.dwfl.hs.kr) 중국어과 졸업
 
 ### Experience
 | Duration | Name | Result |
 |----------|------|--------|
-| 2024.09 ~ 2024.12 | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | sLLM/sLM 분야 본선진출 |
-| 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer |
+| 2024.09 ~ 2024.12 | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | '변호박사' 서비스 제안 |
+| 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer 역할 담당 |
 | 2024.08 ~ 2025.02 | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track 수료 |
-| 2024.05 ~ 2024.10 | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | 최우수상 (과기부장관상) |
-| 2023.12 ~ 2024.01 | [학부 동계 연구 인턴십](https://gdsc.community.dev/) | Time Series |
-| 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | University Lead |
-| 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 입선상 |
-| 2023.01 ~ 2023.06 | [2023 KMUCS 다학제간캡스톤디자인](https://www.kfpd.org/36/4262) | 장려상 |
-| 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) |  |
-| 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Core Member |
-| 2022.01 ~ 2022.01 | [42 Seoul 6기](https://42seoul.kr/seoul42/main/view) | La Piscine |
+| 2024.05 ~ 2024.10 | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | 최우수상 (과기부장관상) 수상 |
+| 2023.12 ~ 2024.01 | [학부 동계 연구 인턴십](https://gdsc.community.dev/) | Time Series Framework 제작 |
+| 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | University Lead 역할 수행 |
+| 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 진출 및 입선상 수상 |
+| 2023.01 ~ 2023.06 | [2023 KMUCS 다학제간캡스톤디자인](https://www.kfpd.org/36/4262) | 장려상 수상 |
+| 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) | 'Facegram' 서비스 제안 |
+| 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Core Member 역할 수행 |
+| 2022.01 ~ 2022.01 | [42 Seoul 6기](https://42seoul.kr/seoul42/main/view) | La Piscine 수행 |
 
-More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad).
+More experiences can be found in [notion CV](https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad).
 
 ---
 
@@ -53,7 +53,7 @@ More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a041
 [![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://www.w3.org)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://www.w3.org)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://www.ecma-international.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://react.dev)
 [![React Native Badge](https://img.shields.io/badge/React%20Native-30303D?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev)
 
@@ -68,8 +68,10 @@ More experiences can be found in [my CV](https://jinjae.notion.site/1e8e1226a041
 [![Google Cloud Platform Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)](https://cloud.google.com)
 
 #### Collaboration
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://notion.so)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://notion.so)
+[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com)
 [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)](https://helpx.adobe.com/kr/support/xd.html)
 
