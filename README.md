@@ -1,9 +1,9 @@
 [![jin-jae Header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Jinjae%27s%20Github&fontSize=90&color=0:8871e5,100:b678c4&stroke=b678c4)](https://github.com/jin-jae)
 
 
-## 👋&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;&nbsp;&nbsp;[![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin-jae&count_bg=%23000000&title_bg=%23626262&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://github.com/jin-jae)
+## 👋&nbsp;&nbsp;&nbsp;Hello
 Hi, I’m Jinjae Kim.  
-I’m studying **Business Administration** and **Software Engineering** at Kookmin University, expected to graduate in August 2025.
+I’m studying **Business Administration** and **Software** at Kookmin University, expected to graduate in August 2025.
 
 Currently, I am focusing on NLP, especially interested in multimodal models such as MLLM (Multimodal Large Language Models).  
 I also have experience studying Time Series Analysis and have published a research paper in this area.
@@ -11,25 +11,27 @@ I also have experience studying Time Series Analysis and have published a resear
 Feel free to check out my projects or get in touch!
 
 ### Career
-- \[ 2018.03 ~ 2025.08 \] [국민대학교](https://kookmin.ac.kr) 경영학전공 / 소프트웨어전공 수료
-- \[ 2014.03 ~ 2017.02 \] [대원외국어고등학교](http://www.dwfl.hs.kr) 중국어과 졸업
+- ```[ 2018.03 ~ 2025.08 ]``` [**Kookmin University**](https://kookmin.ac.kr)
+  - School of Business Administration / School of Software
+- ```[ 2014.03 ~ 2017.02 ]``` [**Daewon Foreign Language High School**](http://www.dwfl.hs.kr)
+  - Chinese Major
 
 ### Experience
+More details can be found in [notion CV (Korean)](https://jinjae.notion.site/aboutme).
 | Duration | Name | Result |
 |----------|------|--------|
-| 2024.09 ~ 2024.12 | [AI반도체 기술인재 선발대회](https://www.aichipcon.or.kr/) | '변호박사' 서비스 제안 |
-| 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Organizer 역할 담당 |
-| 2024.08 ~ 2025.02 | [네이버 AI Tech 부스트캠프 7기](https://boostcamp.connect.or.kr/program_ai.html) | NLP Track 수료 |
-| 2024.05 ~ 2024.10 | [제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview) | 최우수상 (과기부장관상) 수상 |
-| 2023.12 ~ 2024.01 | [학부 동계 연구 인턴십](https://gdsc.community.dev/) | Time Series Framework 제작 |
-| 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | University Lead 역할 수행 |
-| 2023.05 ~ 2023.10 | [2023 장애인 분야 해커톤 대회](https://www.kfpd.org/36/4262) | 본선 진출 및 입선상 수상 |
-| 2023.01 ~ 2023.06 | [2023 KMUCS 다학제간캡스톤디자인](https://www.kfpd.org/36/4262) | 장려상 수상 |
-| 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) | 'Facegram' 서비스 제안 |
-| 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Core Member 역할 수행 |
-| 2022.01 ~ 2022.01 | [42 Seoul 6기](https://42seoul.kr/seoul42/main/view) | La Piscine 수행 |
+| 2024.09 ~ 2024.12 | [AI Chip Contest](https://www.aichipcon.or.kr/) | Developed Korean law QA chatbot service (Fine-tuned sLLM) |
+| 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Working as an organizer |
+| 2024.08 ~ 2025.02 | [boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) | Completed NLP track, participating in 5 team projects |
+| 2024.05 ~ 2024.10 | [ETRI AI Paper Competition](https://aifactory.space/task/2790/overview) | Received the Grand Prize (Minister of Science and ICT Award) |
+| 2023.12 ~ 2024.01 | [Undergraduate Winter Research Internship](https://gdsc.community.dev/) | Developed time series framework |
+| 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Led GDSC Kookmin University community |
+| 2023.05 ~ 2023.10 | [Hackathon in the Field of Disability](https://www.kfpd.org/36/4262) | Reached the finals and was awarded an Honorable Mention |
+| 2023.01 ~ 2023.06 | [2023 KMUCS Capstone Design](https://www.kfpd.org/36/4262) | Awarded the Encouragement Prize |
+| 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) | Proposed the ‘Facegram’ service |
+| 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Served as a core member |
+| 2022.01 ~ 2022.01 | [42 Seoul 6th](https://42seoul.kr/seoul42/main/view) | Completed La Piscine |
 
-More experiences can be found in [notion CV](https://jinjae.notion.site/1e8e1226a0414615aa50fabc12b799ad).
 
 ---
 
