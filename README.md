@@ -20,13 +20,13 @@ Feel free to check out my projects or get in touch!
 More details can be found in [notion CV (Korean)](https://jinjae.notion.site/aboutme).
 | Duration | Name | Result |
 |----------|------|--------|
-| 2024.09 ~ 2024.12 | [AI Chip Contest](https://www.aichipcon.or.kr/) | Developed Korean law QA chatbot service (Fine-tuned sLLM) |
+| 2024.09 ~ 2024.12 | [AI Chip Contest](https://www.aichipcon.or.kr/) | Developed Korean law QA chatbot service |
 | 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Working as an organizer |
-| 2024.08 ~ 2025.02 | [boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) | Completed NLP track, participating in 5 team projects |
-| 2024.05 ~ 2024.10 | [ETRI AI Paper Competition](https://aifactory.space/task/2790/overview) | Received the Grand Prize (Minister of Science and ICT Award) |
+| 2024.08 ~ 2025.02 | [boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) | Completed NLP track, participating in 5 projects |
+| 2024.05 ~ 2024.10 | [ETRI AI Paper Competition](https://aifactory.space/task/2790/overview) | Received the Grand Prize (Minister Award) |
 | 2023.12 ~ 2024.01 | [Undergraduate Winter Research Internship](https://gdsc.community.dev/) | Developed time series framework |
 | 2023.08 ~ 2024.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Led GDSC Kookmin University community |
-| 2023.05 ~ 2023.10 | [Hackathon in the Field of Disability](https://www.kfpd.org/36/4262) | Reached the finals and was awarded an Honorable Mention |
+| 2023.05 ~ 2023.10 | [Hackathon in the Field of Disability](https://www.kfpd.org/36/4262) | Awarded an Honorable Mention |
 | 2023.01 ~ 2023.06 | [2023 KMUCS Capstone Design](https://www.kfpd.org/36/4262) | Awarded the Encouragement Prize |
 | 2023.01 ~ 2023.04 | [2023 GDSC Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge) | Proposed the ‘Facegram’ service |
 | 2022.08 ~ 2023.07 | [GDSC Kookmin University](https://gdsc.community.dev/) | Served as a core member |
