@@ -5,7 +5,7 @@
 Hi, I’m Jinjae Kim.  
 I’m studying **Business Administration** and **Software** at Kookmin University, expected to graduate in August 2025.
 
-Currently, I am focusing on NLP, especially interested in multimodal models such as MLLM (Multimodal Large Language Models).  
+Currently, I am focusing on AI, especially interested in multimodal models.  
 I also have experience studying Time Series Analysis and have published a research paper in this area.
 
 Feel free to check out my projects or get in touch!
