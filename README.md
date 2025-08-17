@@ -3,25 +3,24 @@
 
 ## 👋&nbsp;&nbsp;&nbsp;Hello
 Hi, I’m Jinjae Kim.  
-I’m studying **Business Administration** and **Software** at Kookmin University, expected to graduate in August 2025.
+I studied **Business Administration** and **Software** at Kookmin University, and graduated in August 2025.
 
-Currently, I am focusing on AI, especially interested in multimodal models.  
+My primary interests are in Large Language Models (LLMs) and their applications, with particular interest in multimodal AI.  
 I also have experience studying Time Series Analysis and have published a research paper in this area.
 
 Feel free to check out my projects or get in touch!
 
-### Career
+### Education
 - ```[ 2018.03 ~ 2025.08 ]``` [**Kookmin University**](https://kookmin.ac.kr)
   - School of Business Administration / School of Software
 - ```[ 2014.03 ~ 2017.02 ]``` [**Daewon Foreign Language High School**](http://www.dwfl.hs.kr)
   - Chinese Major
 
 ### Experience
-More details can be found in [notion CV (Korean)](https://jinjae.notion.site/aboutme).
+More details can be found in [http://jin-jae.github.io](https://jin-jae.github.io).
 | Duration | Name | Result |
 |----------|------|--------|
 | 2024.09 ~ 2024.12 | [AI Chip Contest](https://www.aichipcon.or.kr/) | Developed Korean law QA chatbot service |
-| 2024.08 ~         | [GDG on Campus, Kookmin](https://gdsc.community.dev/) | Working as an organizer |
 | 2024.08 ~ 2025.02 | [boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) | Completed NLP track, participating in 5 projects |
 | 2024.05 ~ 2024.10 | [ETRI AI Paper Competition](https://aifactory.space/task/2790/overview) | Received the Grand Prize (Minister Award) |
 | 2023.12 ~ 2024.01 | [Undergraduate Winter Research Internship](https://gdsc.community.dev/) | Developed time series framework |
