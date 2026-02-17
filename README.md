@@ -10,6 +10,11 @@ I also have experience studying Time Series Analysis and have published a resear
 
 Feel free to check out my projects or get in touch!
 
+### Career
+- ```[ 2025.07 ~         ]``` [**Makinarocks**](https://makinarocks.ai)
+  - (2025.11 ~        ) Machine Learning Engineer
+  - (2025.07 ~ 2025.10) Machine Learning Engineer Intern
+
 ### Education
 - ```[ 2018.03 ~ 2025.08 ]``` [**Kookmin University**](https://kookmin.ac.kr)
   - School of Business Administration / School of Software
@@ -81,9 +86,9 @@ More details can be found in [http://jin-jae.github.io](https://jin-jae.github.i
 ## 📊&nbsp;&nbsp;&nbsp;Stats
 
 <div align="center">
-  <a href="https://github.com/jin-jae?tab=repositories"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=tokyonight&hide_border=true" width=50%></a>
+  <!-- <a href="https://github.com/jin-jae?tab=repositories"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jin-jae&show_icons=true&theme=tokyonight&hide_border=true" width=50%></a>
   <a href="https://github.com/jin-jae"><img alt="Top Languages Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin-jae&size_weight=0.3&count_weight=0.7&layout=donut&theme=tokyonight&count_private=true&hide_border=true" width=34%></a>
-  <picture>
+  <picture> -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jin-jae/jin-jae/output/github-contribution-grid-snake.svg">
